@@ -1,12 +1,12 @@
-package com.nandu.employee;
+// package com.nandu.employee;
 
-import org.springframework.context.annotation.Bean;
-import org.springframework.context.annotation.Configuration;
+// import org.springframework.context.annotation.Bean;
+// import org.springframework.context.annotation.Configuration;
 
-@Configuration
-public class SecurityConfig  {
+// @Configuration
+// public class SecurityConfig  {
 
-    @Bean
-    protected SecurityF
+//     @Bean
+//     protected SecurityF
 
-}
+// }
